@@ -18,4 +18,4 @@ mvn spring-boot:run
 * base local url: http://localhost
 * base default port: 8080
 * Endpoints Documentation
-* *   Path: (base url):(base port)/api/v1/docs.html
+* *   Path: (base url):(base port)/info
